@@ -1,0 +1,5 @@
+Q1: 1ca037f0
+Q2: 3
+Q3: git pull - The local branch would be out of date with the teammates changes, so I need to pull the changes to fetch their changes before pushing mine.
+Q4: No - The password is recorded in the earlier commit and on GitHub, .gitignore only stops untracked files from being committed.
+Q5: git branch -d old-fix git push origin --delete old-fix
